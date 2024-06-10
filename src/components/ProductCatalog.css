@@ -1,0 +1,39 @@
+.product-catalog {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .catalog-title {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .product-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    justify-items: center;
+  }
+  
+  .product-card {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    width: 100%;
+    max-width: 300px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product-card h3 {
+    font-size: 1.2em;
+    color: #ff0000; 
+    margin: 0 0 10px 0;
+  }
+  
+  .product-card p {
+    font-size: 1em;
+    color: #555;
+  }
+  

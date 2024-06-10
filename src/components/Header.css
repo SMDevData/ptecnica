@@ -1,0 +1,31 @@
+.header {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f9fa; /* Fondo sutil */
+    margin-bottom: 30px; /* Espacio para el catálogo de productos */
+  }
+  
+  .header-title {
+    font-family: 'Times New Roman', Times, serif; /* Fuente acorde a la temática navideña */
+    font-size: 3em;
+    color: #ff0000; /* Rojo navideño */
+    margin: 0;
+  }
+  
+  .header-subtitle {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.5em;
+    color: #00bfff; /* Azul claro */
+    margin-top: 10px;
+  }
+  
+  /* Decoraciones adicionales */
+  .header:before, .header:after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 10px;
+    background: linear-gradient(to right, red, green, gold);
+    margin: 10px 0;
+  }
+  

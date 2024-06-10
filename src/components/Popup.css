@@ -1,0 +1,25 @@
+.popup {
+    position: fixed;
+    background-color: #ff0000; 
+    border: 2px solid #00ff00; 
+    border-radius: 15px;
+    padding: 20px;
+    width: 250px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+  }
+  
+  .popup-title {
+    font-size: 1.5em;
+    color: #ffffff; 
+    text-align: center;
+    margin: 0;
+  }
+  
+  .popup-subtitle {
+    font-size: 1em;
+    color: #ffffff; 
+    text-align: center;
+    margin-top: 10px;
+  }
+  
