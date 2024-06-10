@@ -1,5 +1,5 @@
 import React from 'react';
-import './frontend/ProductCatalog.css';
+import './ProductCatalog.css';
 
 const ProductCatalog = () => {
   // Lista de productos simulada
