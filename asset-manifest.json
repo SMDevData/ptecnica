@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ptecnica/static/css/main.2be5bfd4.css",
-    "main.js": "/ptecnica/static/js/main.66def7bb.js",
+    "main.js": "/ptecnica/static/js/main.2aa06cad.js",
     "static/js/453.fc0da8fd.chunk.js": "/ptecnica/static/js/453.fc0da8fd.chunk.js",
     "index.html": "/ptecnica/index.html",
     "main.2be5bfd4.css.map": "/ptecnica/static/css/main.2be5bfd4.css.map",
-    "main.66def7bb.js.map": "/ptecnica/static/js/main.66def7bb.js.map",
+    "main.2aa06cad.js.map": "/ptecnica/static/js/main.2aa06cad.js.map",
     "453.fc0da8fd.chunk.js.map": "/ptecnica/static/js/453.fc0da8fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2be5bfd4.css",
-    "static/js/main.66def7bb.js"
+    "static/js/main.2aa06cad.js"
   ]
 }
